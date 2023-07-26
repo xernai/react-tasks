@@ -6,7 +6,6 @@ function TaskCard({ task }) {
 
   function handleDelete(e) {
     e.preventDefault();
-    alert(task.id);
     deleteTask(task.id);
   }
   return (
