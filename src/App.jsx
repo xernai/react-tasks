@@ -21,6 +21,8 @@ function App() {
   //   setTasks(tasks.filter(t=> t.id != taskId))
   // }
 
+  //TODO: Remove above dead code
+
   return (
     <>
       <main className="bg-zinc-900 h-screen">
